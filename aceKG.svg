@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="857.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-367.000000 -352.000000 967.000000 721.000000" height="721.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.0"
+              d="M 191.632217,-166.290207 L -26.878695,-252.370941" class="0 3"
+              stroke-opacity="1.0" stroke="#7353ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 229.517807,-153.632339 L 326.370880,-126.866890" class="0 5"
+              stroke-opacity="1.0" stroke="#00d2d4"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -4.320778,-19.528687 L -51.178223,-231.633347" class="2 3"
+              stroke-opacity="1.0" stroke="#f200ae"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -9.266350,17.727667 L -79.498062,152.180130" class="2 4"
+              stroke-opacity="1.0" stroke="#ff532f"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -104.576759,-81.394829 L -26.836632,-20.883585" class="26 2"
+              stroke-opacity="1.0" stroke="#ff4086"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 15.946974,-12.061386 L 183.119522,-138.454559" class="2 0"
+              stroke-opacity="1.0" stroke="#7f53ae"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -15.788918,-12.284279 L -93.529045,-72.795525" class="2 26"
+              stroke-opacity="1.0" stroke="#ff4086"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 376.984772,-108.774170 L 442.099518,-75.796707" class="5 1"
+              stroke-opacity="1.0" stroke="#4eff55"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 210.240372,-158.959671 L 315.293671,-203.542938" class="0 6"
+              stroke-opacity="1.0" stroke="#00a6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 210.240372,-158.959671 L 259.239349,-263.904053" class="0 7"
+              stroke-opacity="1.0" stroke="#00a6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 210.240372,-158.959671 L 243.384598,-77.314034" class="0 8"
+              stroke-opacity="1.0" stroke="#00a6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 210.240372,-158.959671 L 174.246613,-248.989685" class="0 9"
+              stroke-opacity="1.0" stroke="#00a6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 210.240372,-158.959671 L 174.246613,-248.989685" class="0 9"
+              stroke-opacity="1.0" stroke="#00a6ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 472.431366,-60.435097 L 549.684326,-23.164177" class="1 10"
+              stroke-opacity="1.0" stroke="#9dff00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.006470,0.000439 L -158.100433,28.692215" class="2 11"
+              stroke-opacity="1.0" stroke="#ff005e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.006470,0.000439 L 60.645123,140.260468" class="2 12"
+              stroke-opacity="1.0" stroke="#ff005e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.006470,0.000439 L 126.218887,32.852867" class="2 13"
+              stroke-opacity="1.0" stroke="#ff005e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.006470,0.000439 L -163.470825,-30.963757" class="2 14"
+              stroke-opacity="1.0" stroke="#ff005e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.006470,0.000439 L -132.940552,82.758484" class="2 15"
+              stroke-opacity="1.0" stroke="#ff005e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.006470,0.000439 L 113.689377,90.047127" class="2 16"
+              stroke-opacity="1.0" stroke="#ff005e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.006470,0.000439 L -10.835606,126.787514" class="2 17"
+              stroke-opacity="1.0" stroke="#ff005e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.006470,0.000439 L 134.333801,-26.272770" class="2 18"
+              stroke-opacity="1.0" stroke="#ff005e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.512547,-264.832855 L -28.699341,-361.952148" class="3 19"
+              stroke-opacity="1.0" stroke="#e600ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.512547,-264.832855 L -131.201950,-202.134277"
+              class="3 20" stroke-opacity="1.0" stroke="#e600ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.512547,-264.832855 L -162.596817,-280.530457"
+              class="3 21" stroke-opacity="1.0" stroke="#e600ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.512547,-264.832855 L -124.096268,-347.961761"
+              class="3 22" stroke-opacity="1.0" stroke="#e600ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -95.239853,182.316422 L -195.355560,226.516525" class="4 29"
+              stroke-opacity="1.0" stroke="#ffa600" stroke-dasharray="5,5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -95.239853,182.316422 L -73.872841,268.312347" class="4 28"
+              stroke-opacity="1.0" stroke="#ffa600" stroke-dasharray="5,5"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 359.142517,-117.810417 L 484.370758,-168.865829" class="5 25"
+              stroke-opacity="1.0" stroke="#00ffaa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -39.924561,-272.214386 L 19.098249,-295.653076" class="3 27"
+              stroke-opacity="1.0" stroke="#ec40ff"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 32.109840,-300.820129 L -26.912973,-277.381439" class="27 3"
+              stroke-opacity="1.0" stroke="#ec40ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -73.872841,268.312347 L -62.219238,339.244446" class="28 23"
+              stroke-opacity="1.0" stroke="#ffa600"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.355560,226.516525 L -286.774200,248.048080"
+              class="29 24" stroke-opacity="1.0" stroke="#ffa600"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.355560,226.516525 L -214.220642,308.912140"
+              class="29 30" stroke-opacity="1.0" stroke="#ffa600"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#7353ff" fill-opacity="1.0" class="0 3"
+                  points="-39.904396,-257.502319 -24.313005,-258.883789 -29.444384,-245.858093"
+                  stroke="none"/>
+        <polyline fill="#00d2d4" fill-opacity="1.0" class="0 5"
+                  points="339.865082,-123.137756 324.506317,-120.119789 328.235443,-133.613998"
+                  stroke="none"/>
+        <polyline fill="#f200ae" fill-opacity="1.0" class="2 3"
+                  points="-54.198238,-245.303726 -44.343029,-233.143356 -58.013416,-230.123337"
+                  stroke="none"/>
+        <polyline fill="#ff532f" fill-opacity="1.0" class="2 4"
+                  points="-85.979973,164.589188 -85.702591,148.939178 -73.293533,155.421082"
+                  stroke="none"/>
+        <polyline fill="#ff4086" fill-opacity="1.0" class="26 2"
+                  points="-15.788918,-12.284280 -31.136284,-15.359728 -22.536980,-26.407442"
+                  stroke="none"/>
+        <polyline fill="#7f53ae" fill-opacity="1.0" class="2 0"
+                  points="194.286926,-146.897842 187.341156,-132.870850 178.897888,-144.038269"
+                  stroke="none"/>
+        <polyline fill="#ff4086" fill-opacity="1.0" class="2 26"
+                  points="-104.576759,-81.394829 -89.229393,-78.319382 -97.828697,-67.271667"
+                  stroke="none"/>
+        <polyline fill="#4eff55" fill-opacity="1.0" class="5 1"
+                  points="454.589111,-69.471336 438.936829,-69.551918 445.262207,-82.041496"
+                  stroke="none"/>
+        <polyline fill="#ec40ff" fill-opacity="1.0" class="3 27"
+                  points="32.109840,-300.820129 21.681782,-289.147278 16.514717,-302.158875"
+                  stroke="none"/>
+        <polyline fill="#ec40ff" fill-opacity="1.0" class="27 3"
+                  points="-39.924561,-272.214386 -29.496506,-283.887238 -24.329441,-270.875641"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill="#00a6ff" fill-opacity="1.0" r="20.0" class="0"
+                cx="210.24037" cy="-158.95967"/>
+        <circle fill="#9dff00" fill-opacity="1.0" r="20.0" class="1"
+                cx="472.43137" cy="-60.435097"/>
+        <circle fill="#ff005e" fill-opacity="1.0" r="20.0" class="2"
+                cx="-0.006469911" cy="4.3938644E-4"/>
+        <circle fill="#e600ff" fill-opacity="1.0" r="20.0" class="3"
+                cx="-58.512547" cy="-264.83286"/>
+        <circle fill="#ffa600" fill-opacity="1.0" r="20.0" class="4"
+                cx="-95.23985" cy="182.31642"/>
+        <circle fill="#00ffaa" fill-opacity="1.0" r="20.0" class="5"
+                cx="359.14252" cy="-117.81042"/>
+        <circle fill="#00a6ff" fill-opacity="1.0" r="10.0" class="6"
+                cx="315.29367" cy="-203.54294"/>
+        <circle fill="#00a6ff" fill-opacity="1.0" r="10.0" class="7"
+                cx="259.23935" cy="-263.90405"/>
+        <circle fill="#00a6ff" fill-opacity="1.0" r="10.0" class="8"
+                cx="243.3846" cy="-77.31403"/>
+        <circle fill="#00a6ff" fill-opacity="1.0" r="10.0" class="9"
+                cx="174.24661" cy="-248.98969"/>
+        <circle fill="#9dff00" fill-opacity="1.0" r="10.0" class="10"
+                cx="549.6843" cy="-23.164177"/>
+        <circle fill="#ff005e" fill-opacity="1.0" r="10.0" class="11"
+                cx="-158.10043" cy="28.692215"/>
+        <circle fill="#ff005e" fill-opacity="1.0" r="10.0" class="12"
+                cx="60.645123" cy="140.26047"/>
+        <circle fill="#ff005e" fill-opacity="1.0" r="10.0" class="13"
+                cx="126.21889" cy="32.852867"/>
+        <circle fill="#ff005e" fill-opacity="1.0" r="10.0" class="14"
+                cx="-163.47083" cy="-30.963757"/>
+        <circle fill="#ff005e" fill-opacity="1.0" r="10.0" class="15"
+                cx="-132.94055" cy="82.758484"/>
+        <circle fill="#ff005e" fill-opacity="1.0" r="10.0" class="16"
+                cx="113.68938" cy="90.04713"/>
+        <circle fill="#ff005e" fill-opacity="1.0" r="10.0" class="17"
+                cx="-10.835606" cy="126.78751"/>
+        <circle fill="#ff005e" fill-opacity="1.0" r="10.0" class="18"
+                cx="134.3338" cy="-26.27277"/>
+        <circle fill="#e600ff" fill-opacity="1.0" r="10.0" class="19"
+                cx="-28.69934" cy="-361.95215"/>
+        <circle fill="#e600ff" fill-opacity="1.0" r="10.0" class="20"
+                cx="-131.20195" cy="-202.13428"/>
+        <circle fill="#e600ff" fill-opacity="1.0" r="10.0" class="21"
+                cx="-162.59682" cy="-280.53046"/>
+        <circle fill="#e600ff" fill-opacity="1.0" r="10.0" class="22"
+                cx="-124.09627" cy="-347.96176"/>
+        <circle fill="#ffa600" fill-opacity="1.0" r="10.0" class="23"
+                cx="-62.21924" cy="339.24445"/>
+        <circle fill="#ffa600" fill-opacity="1.0" r="10.0" class="24"
+                cx="-286.7742" cy="248.04808"/>
+        <circle fill="#00ffaa" fill-opacity="1.0" r="10.0" class="25"
+                cx="484.37076" cy="-168.86583"/>
+        <circle fill="#ff80ae" fill-opacity="1.0" r="20.0" class="26"
+                cx="-120.35921" cy="-93.67955"/>
+        <circle fill="#f280ff" fill-opacity="1.0" r="20.0" class="27"
+                cx="50.697823" cy="-308.20166"/>
+        <circle fill="#ffa600" fill-opacity="1.0" r="20.0" class="28"
+                cx="-73.87284" cy="268.31235"/>
+        <circle fill="#ffa600" fill-opacity="1.0" r="20.0" class="29"
+                cx="-195.35556" cy="226.51653"/>
+        <circle fill="#ffa600" fill-opacity="1.0" r="10.0" class="30"
+                cx="-214.22064" cy="308.91214"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="210.24037" y="-154.03194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="0">
+            Author
+        </text>
+        <text font-size="24" x="472.43137" y="-55.251503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="1">
+            Affiliation
+        </text>
+        <text font-size="24" x="-0.006469911" y="6.30708" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="2">
+            Paper
+        </text>
+        <text font-size="24" x="-58.512547" y="-259.80746" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="3">
+            Field
+        </text>
+        <text font-size="24" x="-95.23985" y="187.04884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="4">
+            Venue
+        </text>
+        <text font-size="24" x="359.14252" y="-113.18737" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="5">
+            Institute
+        </text>
+        <text font-size="12" x="315.29367" y="-200.6904" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="6">
+            author_name
+        </text>
+        <text font-size="12" x="259.23935" y="-261.0515" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="7">
+            author_citation_count
+        </text>
+        <text font-size="12" x="243.3846" y="-74.461494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="8">
+            author_sci_citation
+        </text>
+        <text font-size="12" x="174.24661" y="-245.79144" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="9">
+            author_number_of_papers
+        </text>
+        <text font-size="12" x="549.6843" y="-20.300896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="10">
+            affiliation_name
+        </text>
+        <text font-size="12" x="-158.10043" y="31.9012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="11">
+            paper_title
+        </text>
+        <text font-size="12" x="60.645123" y="143.46945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="12">
+            paper_publish_date
+        </text>
+        <text font-size="12" x="126.21889" y="36.05404" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="13">
+            paper_rank
+        </text>
+        <text font-size="12" x="-163.47083" y="-27.762585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="14">
+            paper_future_rank
+        </text>
+        <text font-size="12" x="-132.94055" y="85.80438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="15">
+            paper_citation_count
+        </text>
+        <text font-size="12" x="113.68938" y="93.25611" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="16">
+            paper_cs_relevant
+        </text>
+        <text font-size="12" x="-10.835606" y="129.98868" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="17">
+            paper_keyword
+        </text>
+        <text font-size="12" x="134.3338" y="-23.226871" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="18">
+            paper_sci_citation
+        </text>
+        <text font-size="12" x="-28.69934" y="-359.08887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="19">
+            field_name
+        </text>
+        <text font-size="12" x="-131.20195" y="-199.271" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="20">
+            field_level
+        </text>
+        <text font-size="12" x="-162.59682" y="-277.32147" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="21">
+            field_paper_num
+        </text>
+        <text font-size="12" x="-124.09627" y="-345.09848" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="22">
+            field_reference_count
+        </text>
+        <text font-size="12" x="-62.21924" y="342.47687" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="23">
+            journal_name
+        </text>
+        <text font-size="12" x="-286.7742" y="250.91136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="24">
+            conference_full_name
+        </text>
+        <text font-size="12" x="484.37076" y="-166.16563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="25">
+            institute_name
+        </text>
+        <text font-size="24" x="-120.35921" y="-87.37291" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="26">
+            Paper
+        </text>
+        <text font-size="24" x="50.697823" y="-303.17627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="27">
+            Field
+        </text>
+        <text font-size="24" x="-73.87284" y="273.37875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="28">
+            Journal
+        </text>
+        <text font-size="24" x="-195.35556" y="231.67082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="29">
+            Conference
+        </text>
+        <text font-size="12" x="-214.22064" y="311.76468" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="30">
+            conference_short_name
+        </text>
+    </g>
+    <g id="edge-labels">
+        <text font-size="12" x="75.863914" y="-211.89627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="12">
+            author_is_in_field
+        </text>
+        <text font-size="12" x="284.69144" y="-138.38504" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="13">
+            work_in
+        </text>
+        <text font-size="12" x="-29.259508" y="-132.41621" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="14">
+            paper_is_in_field
+        </text>
+        <text font-size="12" x="-47.62316" y="91.15843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="46">
+            paper_publish_on
+        </text>
+        <text font-size="12" x="105.11695" y="-79.479614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="17">
+            paper_is_written_by
+        </text>
+        <text font-size="12" x="-60.18284" y="-46.839554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="42">
+            paper_cit_paper
+        </text>
+        <text font-size="12" x="415.78693" y="-89.12276" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="19">
+            is_part_of_affiliation
+        </text>
+        <text font-size="12" x="-3.907362" y="-286.51727" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Comic Sans MS" class="44">
+            field_is_part_of
+        </text>
+    </g>
+</svg>
